@@ -119,7 +119,7 @@ If you are not willing to act as an antag, do not check on antagonist roles. If 
 
 Team-based antagonists (such as Nuclear Operatives) are expected to ahelp if they need to leave the round, or communicate with their team that they need to leave. Their deaths are required for the round to end if they are to fail. 
 
-Lone Antagonists (Traitors, Ninjas, Lone Operative) are under no obligation to work together, and are free to attack/hinder/mess with one another. Team antagonists must work together. 
+Lone Antagonists (Traitors, Ninjas, Lone Operative, Terminator) are under no obligation to work together, and are free to attack/hinder/mess with one another. Team antagonists must work together. 
 
 Antagonists are permitted to assist other antagonists with their objectives.;
 
