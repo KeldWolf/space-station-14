@@ -58,6 +58,8 @@ Harmony is a medium role-playing server. You’re not expected to be 100% immers
 
 We do not restrict knowledge of any antagonists, but you may pick and choose what your character knows. Job knowledge is restricted within reason; for example, an engineer should not know how to make complex medicines. In an extreme crisis or to save your own life, you may stretch this information. 
 
+New Life Rule is in effect, you remember all events up until you fall unconscious unless you enter a dead state. Being defibrillated will return all your memories except for the events leading up to your death. You may remember vague descriptors of who or what killed you. Examples include: Shot, stabbed, burned. You may also describe crew member, borg, or a mob species like carp. Avoid going into specifics like species or gender of crew members though. Being cloned/borged will make your character forget everything since the shift started.
+
 Administrators may ask you to change your behavior if it is seen by the Server Staff as damaging the IC atmosphere of the server. Examples include, but are not limited to: references to memes or real life events, reference characters (Gregory House, Walter White), or inappropriate play on words. 
 
 Your character is an employee of Nanotrasen. Names should be context-appropriate and support appropriate role-play. Stage names have more creative freedom. This includes roles like the clown, mime, and musician.
@@ -119,7 +121,7 @@ If you are not willing to act as an antag, do not check on antagonist roles. If 
 
 Team-based antagonists (such as Nuclear Operatives) are expected to ahelp if they need to leave the round, or communicate with their team that they need to leave. Their deaths are required for the round to end if they are to fail. 
 
-Lone Antagonists (Traitors, Ninjas, Lone Operative, Terminator) are under no obligation to work together, and are free to attack/hinder/mess with one another. Team antagonists must work together. 
+Lone Antagonists (Traitors, Ninjas, Lone Operative, Terminators) are under no obligation to work together, and are free to attack/hinder/mess with one another. Team antagonists must work together. 
 
 Antagonists are permitted to assist other antagonists with their objectives.;
 
